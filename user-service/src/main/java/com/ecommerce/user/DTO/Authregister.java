@@ -6,5 +6,5 @@ import lombok.Data;
 public class Authregister {
     private String email;
     private String password;
-    private String role;
+
 }
